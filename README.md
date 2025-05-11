@@ -10,6 +10,7 @@
 <b>Top Producing Districts</b>: Alappuzha, Amroha, Ahmadnagar, Amritsar, Anantpur, Ambala, Aligarh, Agra
 
 🌾 <b>Seasonal Crop Trends</b>
+
 <b>Kharif</b> Season: Most frequent for top 10 crops but not highest in per-record production.
 
 <b>Rabi</b> Season: Strong presence of Wheat and Rapeseed & Mustard.
