@@ -1,36 +1,37 @@
 # Crop-Production-
-📊 <b>Key Highlights</b> 
-Top Crop Producing State: Kerala (followed by Andhra Pradesh and Tamil Nadu)
+📊 <b>Key Highlights</b>
 
-Maximum Produced Crop: Coconut
+<b>Top</b> Crop Producing State: <b>Kerala</b> (followed by Andhra Pradesh and Tamil Nadu)
 
-Top Coconut Producing State: Kerala
+<b>Maximum</b> Produced Crop: Coconut
 
-Top Producing Districts: Alappuzha, Amroha, Ahmadnagar, Amritsar, Anantpur, Ambala, Aligarh, Agra
+<b>Top Coconut Producing State</b>: Kerala
 
-🌾 Seasonal Crop Trends
-Kharif Season: Most frequent for top 10 crops but not highest in per-record production.
+<b>Top Producing Districts</b>: Alappuzha, Amroha, Ahmadnagar, Amritsar, Anantpur, Ambala, Aligarh, Agra
 
-Rabi Season: Strong presence of Wheat and Rapeseed & Mustard.
+🌾 <b>Seasonal Crop Trends</b>
+<b>Kharif</b> Season: Most frequent for top 10 crops but not highest in per-record production.
 
-Whole Year Cultivation: Highest mean production.
+<b>Rabi</b> Season: Strong presence of Wheat and Rapeseed & Mustard.
 
-Autumn and Summer: Lowest mean production (~13,066 and ~11,522 respectively).
+<b>Whole Year</b> Cultivation: Highest mean production.
 
-Sugarcane: Prominent in Whole Year category.
+<b>Autumn and Summer:</b> Lowest mean production (~13,066 and ~11,522 respectively).
 
-Rice & Maize: Versatile, cultivated across nearly all seasons.
+<b>Sugarcane:</b> Prominent in Whole Year category.
 
-Sesamum & Arhar/Tur: Grown almost exclusively in Kharif.
+<b>Rice & Maize:</b> Versatile, cultivated across nearly all seasons.
 
-📉 Observations on Production Trends
-2011: Sudden rise in crop production.
+<b>Sesamum & Arhar/Tur</b>: Grown almost exclusively in Kharif.
 
-2012: Decline in production.
+📉 <b>Observations on Production Trends</b>
+<b>2011:</b> Sudden rise in crop production.
 
-2013: Production rises again.
+<b>2012:</b> Decline in production.
 
-Area vs. Production Insight:
+<b>2013:</b> Production rises again.
+
+<b>Area vs. Production Insight:</b>
 
 Initially, larger area leads to more production.
 
@@ -40,7 +41,7 @@ Soil fertility limitations
 
 Challenges in managing large-scale farming uniformly
 
-🏆 Best States by Crop
+🏆 <b>Best States by Crop</b>
 Sesamum: Gujarat
 
 Wheat: Chandigarh
